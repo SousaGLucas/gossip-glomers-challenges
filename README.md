@@ -8,7 +8,7 @@ Nesse desafio, a ferramenta [Maelstrom](https://github.com/jepsen-io/maelstrom/t
 
 Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results]([url](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/echo/files)).
 
-## Desafio 2 - 
+## Desafio 2 - Unique ID Generation
 
 Nesse desafio, um binário configurado para gerar ids únicos foi implementado.
 
