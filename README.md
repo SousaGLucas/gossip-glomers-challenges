@@ -23,3 +23,9 @@ Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta
 Nesse desafio, um binário é configurado para receber mensagens e disponibilizá-las para outros nós.
 
 Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/single-node-broadcast/results).
+
+## Desafio 4 - Grow-Only Counter
+
+Nesse desafio, um binário é configurado para receber solicitações para incrementar um contador. Esse contador foi configurado para ser [sequencialmente consistente](https://jepsen.io/consistency/models/sequential).
+
+Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/grow-only-counter/results).
