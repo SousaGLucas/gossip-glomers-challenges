@@ -6,7 +6,7 @@ Repositório destinado a conter desafios relacionados à plataforma [Gossip Glum
 
 Nesse desafio, a ferramenta [Maelstrom](https://github.com/jepsen-io/maelstrom/tree/v0.2.3) é utilizada para levantar um nó com um binário configurado para receber mensagens e ecoar respostas a essas mensagens.
 
-Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results]([url](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/echo/files)).
+Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/echo/files).
 
 ## Desafio 2 - Unique ID Generation
 
@@ -16,10 +16,10 @@ A ferramenta [Maelstrom](https://github.com/jepsen-io/maelstrom/tree/v0.2.3) ent
 
 O binário foi configurado para geração de ids númericos com a utilização do banco de dados chave-valor [Redis](https://redis.io/).
 
-Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results]([url](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/unique-id-generation/results)).
+Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/unique-id-generation/results).
 
 ## Desafio 3 - Single-Node Broadcast
 
 Nesse desafio, um binário é configurado para receber mensagens e disponibilizá-las para outros nós.
 
-Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results]([url](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/single-node-broadcast/results)).
+Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/single-node-broadcast/results).
