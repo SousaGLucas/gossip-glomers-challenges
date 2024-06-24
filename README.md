@@ -18,7 +18,7 @@ O binário foi configurado para geração de ids númericos com a utilização d
 
 Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/unique-id-generation/results).
 
-## Desafio 3 - [Single-Node Broadcast](https://fly.io/dist-sys/3a/)
+## Desafio 3a - [Single-Node Broadcast](https://fly.io/dist-sys/3a/)
 
 Nesse desafio, um binário é configurado para receber mensagens e disponibilizá-las para outros nós.
 
@@ -30,10 +30,18 @@ Nesse desafio, um binário é configurado para receber solicitações para incre
 
 Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/grow-only-counter/results).
 
-## Desafio 5 - [Single-Node Kafka-Style Log](https://fly.io/dist-sys/5a/)
+## Desafio 5a - [Single-Node Kafka-Style Log](https://fly.io/dist-sys/5a/)
 
 Nesse desafio, um bonário foi configurado para receber e enfileirar mensagens em filas, similar ao que a ferramenta [Kafka](https://kafka.apache.org/) faz.
 
 Foi configurado handlers para leitura, commit e listagem dos últimos ofssets para uma lista de filas.
 
 Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/single-node-kafka-style-log/results).
+
+## Desafio 6a - [Single-Node Totally Available Transactions](https://fly.io/dist-sys/6a/)
+
+Nesse desafio, um binperio foi configurado para transações numa base de dados key-value.
+
+O binário foi configurado para ser totalmente disponível, ou seja, todas as requisições são respondidas.
+
+Os logs resultantes do desafio podem ser visto nos arquivos encontrados na pasta [results](https://github.com/SousaGLucas/gossip-glomers-challenges/tree/main/single-node-totally-available-transactions/results).
